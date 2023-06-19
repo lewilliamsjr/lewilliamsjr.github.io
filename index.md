@@ -1,4 +1,4 @@
-# Schuyler Enneman - SNHU Capstone ePortfolio
+# Larry E williams Jr - SNHU Capstone ePortfolio
 ## CS-499
 
 ------------------------------------------------------------
