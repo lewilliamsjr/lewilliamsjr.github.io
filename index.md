@@ -21,10 +21,28 @@
 
 ## Milestone 1 - Video 
 
-My initial code narration and guide can be found here: [LINK](https://www.screencast.com/t/ogUNCLPqJ "Video Link") or https://www.screencast.com/t/ogUNCLPqJ
+My initial code narration and guide can be found here: [LINK](https://www.dropbox.com/s/r1pncig5fvexr7v/CS4002-2CRLW.mov?dl=0 "Video Link")
 
-## Milestone 2 - Software Design and Engineering
-### Transfer a project into a different language 
+## Software Design and Engineering
+### 3D Pyramid
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The artifact I'm presenting is a 3D Pyramid, a graphic that I created during my CS330 class using OpenGL. It is a computer-generated three-dimensional representation of a pyramid, designed and coded from scratch. This pyramid was created during the fall semester of my third year as part of the computer graphics class. The intention was to understand the concepts of 3D modeling and graphics rendering using OpenGL, a popular open-source graphics library. The 3D pyramid project served as a practical application of the theories and principles learned in class, providing an opportunity to apply knowledge to real-world graphical representation.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The adding of this 3D Pyramid in my ePortfolio is justified due to its demonstration of my practical software development skills, especially in graphics programming using OpenGL. By selecting this item, I'm showcasing my proficiency in 3D graphics and my ability to apply theoretical concepts to create superior graphical models. I have continually improved this artifact, refining its appearance and performance based on feedback and personal reflection, demonstrating my commitment to continuous learning and development. Through creating and enhancing this artifact, I met the objectives I've set in Module One, with no further updates to my outcome-coverage plans necessary. This project underlines my ability to meet objectives and improve upon initial outcomes, a crucial skill in any software development process.
+
+
+## Algorithm and Data Structures 
+### DD4
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The artifact in focus is a 3D pyramid model I created using OpenGL and Visual Studio, applying the DDA (Digital Differential Analyzer) algorithm. The DDA algorithm is a popular computer graphics tool designed for rasterization of lines, triangles, or polygons. This artifact was created during my semester of my senior year as part of my CS 330 Computational Graphics and Visualization course. It is a solid example of my skill in programming, particularly in utilizing the DDA algorithm for rasterization in computer graphics, a method used in converting vector graphics to raster graphics.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The decision to include this artifact in my ePortfolio was driven by its representation of my proficiency in complex algorithmic thinking, data structure management, and my adeptness at using modern tools such as OpenGL and Visual Studio. I selected this item as it displays my ability to correctly and effectively implement the DDA algorithm. Furthermore, I enhanced the artifact by optimizing the code for improved performance and by adding realistic lighting effects to the pyramid, demonstrating my understanding of advanced computer graphics concepts. The artifact helped me meet the objectives set in Module One, and upon reflection, there are no changes to be made to my outcome-coverage plans.
+
+
+## Databases
+### OpenGL
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Open Graphics Library, also known as OpenGL, is an application programming interface (API) that may be utilized across multiple platforms and is not dependent on any particular programming language. It was originally made available to the public in 1992 and was developed by Silicon Graphics Inc. Because of its capacity to deliver hardware-accelerated rendering and its adaptability to a broad variety of hardware configurations, OpenGL has found widespread application in computer-aided design (CAD), virtual reality, scientific visualization, information visualization, flight simulation, and computer games.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because it demonstrates both my expertise in graphics programming and my capacity to execute complicated programming concepts in a way that is visually striking, OpenGL was the programming language of choice for me to utilize when I created my 3D pyramid for my ePortfolio. My knowledge of computer graphics, mathematical transformations, and best practices for fast programming is demonstrated using OpenGL, which is a strong tool. My ability to design three-dimensional objects, manage graphic pipelines, develop shading models, and manipulate vertex data is demonstrated by the artifact. The standard of the artifact was brought up to a much higher level by the incorporation of characteristics such as transformation matrices, shading techniques, and texture mapping.
+
 
 #### Artifact explanation:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My artifact for milestone two is based off of a final project from my IT-145 course. The project is a Java program that implements a ‘log in’ system along with an MD5 password hashing function. I created this artifact quite awhile ago initially as it was one of my earlier programming classes at SNHU. The artifact that is included in my portfolio is the same essential program but converted into Python. The converted Python code has some changes made to it but is a similarly functioning program. 
