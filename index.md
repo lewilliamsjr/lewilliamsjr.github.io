@@ -1,4 +1,4 @@
-# Larry E williams Jr - SNHU Capstone ePortfolio
+# Larry E Williams Jr - SNHU Capstone ePortfolio
 ## CS-499
 
 ------------------------------------------------------------
