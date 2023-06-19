@@ -5,10 +5,10 @@
 
 ### This portfolio contains three programming projects, a video, and a self assessment
 ### Final - Self Assessment
-### Milestone 1 - Code Review and Plans (Video)
-### Milestone 2 - Software Design and Engineering (Python)
-### Milestone 3 - Data Structures and Algorithms (Python) 
-### Milestone 4 - Databases (MongoDB - JavaScript - Node.JS)
+### Milestone 1 - Code Review and Plans 
+### Milestone 2 - Software Design and Engineering 
+### Milestone 3 - Data Structures and Algorithms
+### Milestone 4 - Databases
 
 -------------------------------------------------------------
 
