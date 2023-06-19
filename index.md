@@ -68,7 +68,66 @@ My initial code narration and guide can be found here: [LINK](https://www.dropbo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The decision to include this artifact in my ePortfolio was driven by its representation of my proficiency in complex algorithmic thinking, data structure management, and my adeptness at using modern tools such as OpenGL and Visual Studio. I selected this item as it displays my ability to correctly and effectively implement the DDA algorithm. Furthermore, I enhanced the artifact by optimizing the code for improved performance and by adding realistic lighting effects to the pyramid, demonstrating my understanding of advanced computer graphics concepts. The artifact helped me meet the objectives set in Module One, and upon reflection, there are no changes to be made to my outcome-coverage plans.
 
-
+    // C++ program for DDA line generation
+ 
+    #include <bits/stdc++.h>
+    using namespace std;
+ 
+    // function for rounding off the pixels
+    int round(float n)
+    {
+    if (n - (int)n < 0.5)
+        return (int)n;
+    return (int)(n + 1);
+    }
+ 
+    // Function for line generation
+    void DDALine(int x0, int y0, int x1, int y1)
+    {
+ 
+    // Calculate dx and dy
+    int dx = x1 - x0;
+    int dy = y1 - y0;
+ 
+    int step;
+ 
+    // If dx > dy we will take step as dx
+    // else we will take step as dy to draw the complete
+    // line
+    if (abs(dx) > abs(dy))
+        step = abs(dx);
+    else
+        step = abs(dy);
+ 
+    // Calculate x-increment and y-increment for each step
+    float x_incr = (float)dx / step;
+    float y_incr = (float)dy / step;
+ 
+    // Take the initial points as x and y
+    float x = x0;
+    float y = y0;
+ 
+    for (int i = 0; i < step; i++) {
+ 
+        // putpixel(round(x), round(y), WHITE);
+        cout << round(x) << " " << round(y) << "\n";
+        x += x_incr;
+        y += y_incr;
+        // delay(10);
+    }
+    }
+ 
+    // Driver code
+    int main()
+    {
+ 
+    int x0 = 200, y0 = 180, x1 = 180, y1 = 160;
+ 
+    // Function call
+    DDALine(x0, y0, x1, y1);
+ 
+    return 0;
+}
 
 
 ## Databases
