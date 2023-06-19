@@ -136,6 +136,6 @@ My initial code narration and guide can be found here: [LINK](https://www.dropbo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because it demonstrates both my expertise in graphics programming and my capacity to execute complicated programming concepts in a way that is visually striking, OpenGL was the programming language of choice for me to utilize when I created my 3D pyramid for my ePortfolio. My knowledge of computer graphics, mathematical transformations, and best practices for fast programming is demonstrated using OpenGL, which is a strong tool. My ability to design three-dimensional objects, manage graphic pipelines, develop shading models, and manipulate vertex data is demonstrated by the artifact. The standard of the artifact was brought up to a much higher level by the incorporation of characteristics such as transformation matrices, shading techniques, and texture mapping.
 
-
+OPENGL.png
 
 ### Thanks For Viewing My ePortfolio! 
