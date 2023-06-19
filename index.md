@@ -29,9 +29,9 @@ My initial code narration and guide can be found here: [LINK](https://www.dropbo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The adding of this 3D Pyramid in my ePortfolio is justified due to its demonstration of my practical software development skills, especially in graphics programming using OpenGL. By selecting this item, I'm showcasing my proficiency in 3D graphics and my ability to apply theoretical concepts to create superior graphical models. I have continually improved this artifact, refining its appearance and performance based on feedback and personal reflection, demonstrating my commitment to continuous learning and development. Through creating and enhancing this artifact, I met the objectives I've set in Module One, with no further updates to my outcome-coverage plans necessary. This project underlines my ability to meet objectives and improve upon initial outcomes, a crucial skill in any software development process.
 
-// Implements the UCreateMesh function
-void UCreateMesh(GLMesh& mesh)
-{
+    // Implements the UCreateMesh function
+    void UCreateMesh(GLMesh& mesh)
+    {
     // Specifies Normalized Device Coordinates (x,y,z) and color (r,g,b,a) for triangle vertices
     GLfloat verts[] =
     {
